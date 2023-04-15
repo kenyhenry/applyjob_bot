@@ -1,0 +1,1089 @@
+1681430852796	geckodriver	INFO	Listening on 127.0.0.1:62942
+1681430853337	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62943" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileLteNoW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681430854252	Marionette	INFO	Marionette enabled
+1681430854395	Marionette	INFO	Listening on port 62948
+WebDriver BiDi listening on ws://127.0.0.1:62943
+1681430854972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileLteNoW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62943/devtools/browser/59993713-b6a2-4c3b-91d8-5c9fa03820fd
+1681430951387	geckodriver	INFO	Listening on 127.0.0.1:63055
+1681430951904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63056" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile1oZ94p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681430952847	Marionette	INFO	Marionette enabled
+1681430952975	Marionette	INFO	Listening on port 63061
+WebDriver BiDi listening on ws://127.0.0.1:63056
+1681430953545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile1oZ94p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63056/devtools/browser/4c126e5a-90ea-40f4-a159-2a01fa5584a7
+1681431081192	geckodriver	INFO	Listening on 127.0.0.1:63310
+1681431081745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63311" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6MseXq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431082672	Marionette	INFO	Marionette enabled
+1681431082788	Marionette	INFO	Listening on port 63316
+WebDriver BiDi listening on ws://127.0.0.1:63311
+1681431083290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6MseXq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63311/devtools/browser/0356ad60-16bb-43f4-acc8-f09c9802e71b
+1681431126904	geckodriver	INFO	Listening on 127.0.0.1:63413
+1681431127458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63414" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileIxkuW2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431128342	Marionette	INFO	Marionette enabled
+1681431128475	Marionette	INFO	Listening on port 63419
+WebDriver BiDi listening on ws://127.0.0.1:63414
+1681431129039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileIxkuW2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63414/devtools/browser/b386ad2c-dac0-4608-9682-a723c2a67992
+1681431182232	geckodriver	INFO	Listening on 127.0.0.1:63516
+1681431182755	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63517" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileGCIts6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431183676	Marionette	INFO	Marionette enabled
+1681431183783	Marionette	INFO	Listening on port 63522
+WebDriver BiDi listening on ws://127.0.0.1:63517
+1681431184129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileGCIts6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63517/devtools/browser/a6d64846-970c-4483-965f-1532fec65b31
+1681431209632	geckodriver	INFO	Listening on 127.0.0.1:63624
+1681431210173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63625" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileasYwYs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431210986	Marionette	INFO	Marionette enabled
+1681431211088	Marionette	INFO	Listening on port 63630
+WebDriver BiDi listening on ws://127.0.0.1:63625
+1681431211600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileasYwYs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63625/devtools/browser/0e87836a-c6bd-493e-8d15-96e3642664eb
+1681431290481	geckodriver	INFO	Listening on 127.0.0.1:63735
+1681431291033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63736" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilejgKEco"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431291940	Marionette	INFO	Marionette enabled
+1681431292046	Marionette	INFO	Listening on port 63741
+WebDriver BiDi listening on ws://127.0.0.1:63736
+1681431292365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilejgKEco/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63736/devtools/browser/df36af87-a39e-4c41-85c7-b18ea22b7116
+1681431332266	geckodriver	INFO	Listening on 127.0.0.1:63830
+1681431332290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63831" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3Hfzz9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431333167	Marionette	INFO	Marionette enabled
+1681431333273	Marionette	INFO	Listening on port 63834
+WebDriver BiDi listening on ws://127.0.0.1:63831
+1681431333818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3Hfzz9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63831/devtools/browser/7ca6abeb-ac45-4bef-bdb7-0c143d567601
+1681431430747	geckodriver	INFO	Listening on 127.0.0.1:63953
+1681431431294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63954" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileE9Y1xh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431432161	Marionette	INFO	Marionette enabled
+1681431432281	Marionette	INFO	Listening on port 63959
+WebDriver BiDi listening on ws://127.0.0.1:63954
+1681431432765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileE9Y1xh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63954/devtools/browser/bb2a0777-af43-44f1-938e-e152acabe343
+1681431821978	geckodriver	INFO	Listening on 127.0.0.1:64270
+1681431822000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64271" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilebgqgOo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681431823236	Marionette	INFO	Marionette enabled
+1681431823408	Marionette	INFO	Listening on port 64274
+WebDriver BiDi listening on ws://127.0.0.1:64271
+1681431823975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilebgqgOo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64271/devtools/browser/ba8f3aeb-f13c-4c34-812e-e51ba4ef7acf
+1681432006797	geckodriver	INFO	Listening on 127.0.0.1:64434
+1681432007341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64435" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqvFf5G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432008162	Marionette	INFO	Marionette enabled
+1681432008278	Marionette	INFO	Listening on port 64440
+WebDriver BiDi listening on ws://127.0.0.1:64435
+1681432008767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqvFf5G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64435/devtools/browser/44b8399a-f8b6-4f92-9104-9fd5d9778d7a
+1681432054615	geckodriver	INFO	Listening on 127.0.0.1:64545
+1681432055145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64546" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileRUkyAk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432055710	Marionette	INFO	Marionette enabled
+1681432055781	Marionette	INFO	Listening on port 64551
+WebDriver BiDi listening on ws://127.0.0.1:64546
+1681432056145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileRUkyAk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64546/devtools/browser/51c380b9-243f-40ec-a7e6-ae8f940fcd2c
+1681432081495	geckodriver	INFO	Listening on 127.0.0.1:64646
+1681432081513	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64647" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileJSvg54"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432082064	Marionette	INFO	Marionette enabled
+1681432082142	Marionette	INFO	Listening on port 64650
+WebDriver BiDi listening on ws://127.0.0.1:64647
+1681432082473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileJSvg54/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64647/devtools/browser/25e5a91c-4a94-4f20-83e9-644f4e55ad26
+1681432208781	geckodriver	INFO	Listening on 127.0.0.1:64802
+1681432209305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64803" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileCWfTT6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432209938	Marionette	INFO	Marionette enabled
+1681432210030	Marionette	INFO	Listening on port 64808
+WebDriver BiDi listening on ws://127.0.0.1:64803
+1681432210414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileCWfTT6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64803/devtools/browser/d35a8fb3-8ae4-4d05-b5bf-87e89272b556
+1681432253641	geckodriver	INFO	Listening on 127.0.0.1:64912
+1681432253658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64913" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiler1kDls"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432254213	Marionette	INFO	Marionette enabled
+1681432254287	Marionette	INFO	Listening on port 64916
+WebDriver BiDi listening on ws://127.0.0.1:64913
+1681432254641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiler1kDls/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64913/devtools/browser/6a9c0a4f-33e8-4008-b526-78717da7e043
+1681432326934	geckodriver	INFO	Listening on 127.0.0.1:65021
+1681432327476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65022" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileavdIJA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432328086	Marionette	INFO	Marionette enabled
+1681432328171	Marionette	INFO	Listening on port 65027
+WebDriver BiDi listening on ws://127.0.0.1:65022
+1681432328525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileavdIJA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65022/devtools/browser/aac485cd-6efd-41ef-b8d5-7e55f40d700b
+1681432347669	geckodriver	INFO	Listening on 127.0.0.1:65115
+1681432348204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65116" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqmYLIe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432348800	Marionette	INFO	Marionette enabled
+1681432348883	Marionette	INFO	Listening on port 65121
+WebDriver BiDi listening on ws://127.0.0.1:65116
+1681432349260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqmYLIe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65116/devtools/browser/e7211c17-ecb6-4558-bbe0-5b64b692135e
+1681432403054	geckodriver	INFO	Listening on 127.0.0.1:65218
+1681432403575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65219" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileus9Ex7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681432404167	Marionette	INFO	Marionette enabled
+1681432404252	Marionette	INFO	Listening on port 65224
+WebDriver BiDi listening on ws://127.0.0.1:65219
+1681432404602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileus9Ex7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65219/devtools/browser/802cfbc7-4a66-4a2f-9be7-917829e02f45
+1681433096540	geckodriver	INFO	Listening on 127.0.0.1:65511
+1681433097085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65512" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileW6DuU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433097755	Marionette	INFO	Marionette enabled
+1681433097832	Marionette	INFO	Listening on port 65517
+WebDriver BiDi listening on ws://127.0.0.1:65512
+1681433098072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileW6DuU6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65512/devtools/browser/78c9a52d-4178-4c80-bf6d-7d4270411a7c
+1681433395640	geckodriver	INFO	Listening on 127.0.0.1:49252
+1681433396180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49253" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9PagEa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433396794	Marionette	INFO	Marionette enabled
+1681433396878	Marionette	INFO	Listening on port 49259
+WebDriver BiDi listening on ws://127.0.0.1:49253
+1681433397244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9PagEa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49253/devtools/browser/283335c7-1e72-4851-9f74-b5019f22d5b3
+1681433438744	geckodriver	INFO	Listening on 127.0.0.1:49351
+1681433438759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49352" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletdbVQc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433439316	Marionette	INFO	Marionette enabled
+1681433439389	Marionette	INFO	Listening on port 49355
+WebDriver BiDi listening on ws://127.0.0.1:49352
+1681433439722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletdbVQc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49352/devtools/browser/869a5e73-96a6-47b1-abbb-4909fd6940fe
+1681433485427	geckodriver	INFO	Listening on 127.0.0.1:49443
+1681433485442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49444" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileUMYsWG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433485996	Marionette	INFO	Marionette enabled
+1681433486076	Marionette	INFO	Listening on port 49447
+WebDriver BiDi listening on ws://127.0.0.1:49444
+1681433486431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileUMYsWG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49444/devtools/browser/9e32b9e0-5d97-4ff5-ac62-62aaffb9ac81
+1681433539277	geckodriver	INFO	Listening on 127.0.0.1:49567
+1681433539823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49568" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileu3et4f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433540456	Marionette	INFO	Marionette enabled
+1681433540751	Marionette	INFO	Listening on port 49573
+WebDriver BiDi listening on ws://127.0.0.1:49568
+1681433540902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileu3et4f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49568/devtools/browser/92fa1fc0-6fff-4b02-8b83-a9e52a082234
+1681433578231	geckodriver	INFO	Listening on 127.0.0.1:49665
+1681433578248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49666" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileMyR2MO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433578823	Marionette	INFO	Marionette enabled
+1681433578915	Marionette	INFO	Listening on port 49669
+WebDriver BiDi listening on ws://127.0.0.1:49666
+1681433579283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileMyR2MO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49666/devtools/browser/0899e6b5-2522-4c5b-8b05-cbb0520c50ec
+1681433638511	geckodriver	INFO	Listening on 127.0.0.1:49763
+1681433639042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49764" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezNCt7Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433639693	Marionette	INFO	Marionette enabled
+1681433639984	Marionette	INFO	Listening on port 49769
+WebDriver BiDi listening on ws://127.0.0.1:49764
+1681433640135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezNCt7Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49764/devtools/browser/cbf95924-eff7-4b12-8004-9a0219aa698f
+1681433732246	geckodriver	INFO	Listening on 127.0.0.1:49873
+1681433732786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49874" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileTizZUo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681433733382	Marionette	INFO	Marionette enabled
+1681433733466	Marionette	INFO	Listening on port 49879
+WebDriver BiDi listening on ws://127.0.0.1:49874
+1681433733830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileTizZUo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49874/devtools/browser/434978dd-129f-493d-b8b7-8652623fc753
+1681435594809	geckodriver	INFO	Listening on 127.0.0.1:50245
+1681435595324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50246" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilexQgfAR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681435596302	Marionette	INFO	Marionette enabled
+1681435596437	Marionette	INFO	Listening on port 50251
+WebDriver BiDi listening on ws://127.0.0.1:50246
+1681435596760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilexQgfAR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50246/devtools/browser/22140f76-368f-40a2-8f2d-6d4783b4d00e
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.api is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.api is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.api is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.globals is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.api is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/m/s/b4aaf6c85256112052e4/scripts/serpGlobal.js, line 2: TypeError: window.mosaic.api is undefined
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/mosaic-provider-passport-intercept/dist/fb41ae673e3a6d6cc16e/js/Main-client.js, line 2: TypeError: mosaic.globals is undefined
+1681435656561	geckodriver	INFO	Listening on 127.0.0.1:50328
+1681435657081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50329" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilep62NJ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681435657715	Marionette	INFO	Marionette enabled
+1681435657810	Marionette	INFO	Listening on port 50334
+WebDriver BiDi listening on ws://127.0.0.1:50329
+1681435658030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilep62NJ2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50329/devtools/browser/782a32b4-17f4-4cfd-978f-b787a11ecb36
+1681435767725	geckodriver	INFO	Listening on 127.0.0.1:50725
+1681435768247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50726" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile2S3Amr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681435768855	Marionette	INFO	Marionette enabled
+1681435768943	Marionette	INFO	Listening on port 50731
+WebDriver BiDi listening on ws://127.0.0.1:50726
+1681435769332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile2S3Amr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50726/devtools/browser/e1a0b093-f6ad-404b-9894-830404356032
+1681435797481	geckodriver	INFO	Listening on 127.0.0.1:50845
+1681435798013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50846" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileRb9ms7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681435798643	Marionette	INFO	Marionette enabled
+1681435798715	Marionette	INFO	Listening on port 50852
+WebDriver BiDi listening on ws://127.0.0.1:50846
+1681435799088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileRb9ms7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50846/devtools/browser/c74b3e87-91c2-4424-86d3-7e4652f7c0d7
+1681435955648	geckodriver	INFO	Listening on 127.0.0.1:51022
+1681435956184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51023" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilemD2xAE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681435956767	Marionette	INFO	Marionette enabled
+1681435956853	Marionette	INFO	Listening on port 51028
+WebDriver BiDi listening on ws://127.0.0.1:51023
+1681435957200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilemD2xAE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51023/devtools/browser/be8cc9cc-9c46-45df-85e2-dba996a7d91f
+1681436711717	geckodriver	INFO	Listening on 127.0.0.1:51218
+1681436712248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51219" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileDwGHm0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436712992	Marionette	INFO	Marionette enabled
+1681436713073	Marionette	INFO	Listening on port 51224
+WebDriver BiDi listening on ws://127.0.0.1:51219
+1681436713451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileDwGHm0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51219/devtools/browser/b1cfaa67-0c09-473e-998c-7a345f47cfa2
+1681436740313	geckodriver	INFO	Listening on 127.0.0.1:51311
+1681436740836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51312" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile53QILx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436741433	Marionette	INFO	Marionette enabled
+1681436741508	Marionette	INFO	Listening on port 51317
+WebDriver BiDi listening on ws://127.0.0.1:51312
+1681436741784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile53QILx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51312/devtools/browser/b3965585-422b-4618-8575-a1c29bb17486
+1681436783175	geckodriver	INFO	Listening on 127.0.0.1:51421
+1681436783720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51422" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilesv09Ul"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436784312	Marionette	INFO	Marionette enabled
+1681436784393	Marionette	INFO	Listening on port 51427
+WebDriver BiDi listening on ws://127.0.0.1:51422
+1681436784788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilesv09Ul/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51422/devtools/browser/b086cf49-22c2-45ed-a4ae-1c116cf22060
+1681436798022	geckodriver	INFO	Listening on 127.0.0.1:51522
+1681436798034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51523" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilerbFF43"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436798621	Marionette	INFO	Marionette enabled
+1681436798698	Marionette	INFO	Listening on port 51526
+WebDriver BiDi listening on ws://127.0.0.1:51523
+1681436799033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilerbFF43/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51523/devtools/browser/d3e2581c-d1fe-4996-9738-fd5d9d0cb99d
+1681436850012	geckodriver	INFO	Listening on 127.0.0.1:51620
+1681436850543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51621" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilefI0JE2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436851128	Marionette	INFO	Marionette enabled
+1681436851210	Marionette	INFO	Listening on port 51626
+WebDriver BiDi listening on ws://127.0.0.1:51621
+1681436851587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilefI0JE2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51621/devtools/browser/d2069c5e-4b2b-4804-889a-e466bc09c77e
+1681436885831	geckodriver	INFO	Listening on 127.0.0.1:51730
+1681436886370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51731" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile0Qdwuf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436886970	Marionette	INFO	Marionette enabled
+1681436887043	Marionette	INFO	Listening on port 51736
+WebDriver BiDi listening on ws://127.0.0.1:51731
+1681436887317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile0Qdwuf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51731/devtools/browser/5430ad31-1132-41cd-a686-ad8f47f1e0cb
+1681436927758	geckodriver	INFO	Listening on 127.0.0.1:51826
+1681436928297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51827" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYMaMoR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681436928881	Marionette	INFO	Marionette enabled
+1681436928963	Marionette	INFO	Listening on port 51832
+WebDriver BiDi listening on ws://127.0.0.1:51827
+1681436929336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYMaMoR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51827/devtools/browser/a37d54eb-38d4-43ed-b9c8-23d860cd1ffd
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:320:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:320:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:320:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681437005684	geckodriver	INFO	Listening on 127.0.0.1:51938
+1681437006222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51939" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3y5MOp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437006838	Marionette	INFO	Marionette enabled
+1681437006919	Marionette	INFO	Listening on port 51944
+WebDriver BiDi listening on ws://127.0.0.1:51939
+1681437007309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3y5MOp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51939/devtools/browser/87ec15be-8b46-41e1-8d9f-a0e28f1fa926
+1681437061822	geckodriver	INFO	Listening on 127.0.0.1:52041
+1681437062356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52042" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilecVXgL7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437062968	Marionette	INFO	Marionette enabled
+1681437063043	Marionette	INFO	Listening on port 52047
+WebDriver BiDi listening on ws://127.0.0.1:52042
+1681437063289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilecVXgL7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52042/devtools/browser/2d569052-22f0-4ce0-9cd7-ef2247e38c30
+1681437093672	geckodriver	INFO	Listening on 127.0.0.1:52138
+1681437093684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52139" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile35Rir6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437094262	Marionette	INFO	Marionette enabled
+1681437094339	Marionette	INFO	Listening on port 52142
+WebDriver BiDi listening on ws://127.0.0.1:52139
+1681437094711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile35Rir6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52139/devtools/browser/86dae3fa-819d-421f-8e55-6e7fadd14699
+1681437110084	geckodriver	INFO	Listening on 127.0.0.1:52227
+1681437110096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52228" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileeYb6Nk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437110638	Marionette	INFO	Marionette enabled
+1681437110719	Marionette	INFO	Listening on port 52231
+WebDriver BiDi listening on ws://127.0.0.1:52228
+1681437111104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileeYb6Nk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52228/devtools/browser/a435f246-ff6b-4a8b-87c3-12cc9c3557be
+1681437152051	geckodriver	INFO	Listening on 127.0.0.1:52331
+1681437152063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52332" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYJJxwa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437152612	Marionette	INFO	Marionette enabled
+1681437152689	Marionette	INFO	Listening on port 52335
+WebDriver BiDi listening on ws://127.0.0.1:52332
+1681437153062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYJJxwa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52332/devtools/browser/fd067ac3-8610-4704-9e77-3efea7d5f1eb
+1681437167471	geckodriver	INFO	Listening on 127.0.0.1:52423
+1681437167483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52424" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileSpEhub"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437168065	Marionette	INFO	Marionette enabled
+1681437168149	Marionette	INFO	Listening on port 52427
+WebDriver BiDi listening on ws://127.0.0.1:52424
+1681437168410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileSpEhub/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52424/devtools/browser/33a6d618-d54d-4ab0-b01a-1bd136e65654
+1681437188729	geckodriver	INFO	Listening on 127.0.0.1:52520
+1681437188740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52521" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilegElQjE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437189230	Marionette	INFO	Marionette enabled
+1681437189305	Marionette	INFO	Listening on port 52524
+WebDriver BiDi listening on ws://127.0.0.1:52521
+1681437189726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilegElQjE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52521/devtools/browser/78f6c0b5-754c-4fee-ac2e-bf0a572deb2b
+1681437219743	geckodriver	INFO	Listening on 127.0.0.1:52615
+1681437220294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52616" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYdye6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437220921	Marionette	INFO	Marionette enabled
+1681437221000	Marionette	INFO	Listening on port 52621
+WebDriver BiDi listening on ws://127.0.0.1:52616
+1681437221255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileYdye6o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52616/devtools/browser/70d09010-85d7-49b8-adf3-a2a7276d97ef
+1681437241685	geckodriver	INFO	Listening on 127.0.0.1:52723
+1681437241696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52724" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9Ykgc3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437242257	Marionette	INFO	Marionette enabled
+1681437242541	Marionette	INFO	Listening on port 52727
+WebDriver BiDi listening on ws://127.0.0.1:52724
+1681437242676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9Ykgc3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52724/devtools/browser/2d0346da-afdf-40ad-abfd-2a15539c1165
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:320:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: https://d3fw5vlhllyvee.cloudfront.net/shared/react17/925.161ca3bcf22f2d72e041.js, line 1: ApolloError: NetworkError when attempting to fetch resource.
+1681437479186	geckodriver	INFO	Listening on 127.0.0.1:52942
+1681437479718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52943" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilexGS9js"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437480378	Marionette	INFO	Marionette enabled
+1681437480465	Marionette	INFO	Listening on port 52948
+WebDriver BiDi listening on ws://127.0.0.1:52943
+1681437480848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilexGS9js/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52943/devtools/browser/71e29e86-cf51-461c-8fb9-e9ae130a72f2
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681437641210	geckodriver	INFO	Listening on 127.0.0.1:53302
+1681437641229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53303" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilePxwSid"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437641851	Marionette	INFO	Marionette enabled
+1681437641940	Marionette	INFO	Listening on port 53306
+WebDriver BiDi listening on ws://127.0.0.1:53303
+1681437642342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilePxwSid/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53303/devtools/browser/d002c934-1c6f-47be-a25e-76a6d983abdb
+1681437694789	geckodriver	INFO	Listening on 127.0.0.1:53427
+1681437695328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53428" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile0vv13z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437695936	Marionette	INFO	Marionette enabled
+1681437696013	Marionette	INFO	Listening on port 53433
+WebDriver BiDi listening on ws://127.0.0.1:53428
+1681437696390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile0vv13z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53428/devtools/browser/8e778b81-0979-4e71-b533-0049de3d846d
+1681437739111	geckodriver	INFO	Listening on 127.0.0.1:53573
+1681437739649	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53574" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileneHnIl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437740227	Marionette	INFO	Marionette enabled
+1681437740310	Marionette	INFO	Listening on port 53579
+WebDriver BiDi listening on ws://127.0.0.1:53574
+1681437740696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileneHnIl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53574/devtools/browser/daa158ad-d0ff-4223-ae4e-56f8a5c5e1eb
+1681437838099	geckodriver	INFO	Listening on 127.0.0.1:53687
+1681437838668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53688" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileb32EcD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681437839286	Marionette	INFO	Marionette enabled
+1681437839370	Marionette	INFO	Listening on port 53693
+WebDriver BiDi listening on ws://127.0.0.1:53688
+1681437839739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileb32EcD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53688/devtools/browser/a91d76db-415a-44b8-aa9e-2c91b570f8d0
+1681438162893	geckodriver	INFO	Listening on 127.0.0.1:54073
+1681438162933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54074" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9pXExU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438163585	Marionette	INFO	Marionette enabled
+1681438163685	Marionette	INFO	Listening on port 54077
+WebDriver BiDi listening on ws://127.0.0.1:54074
+1681438164178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile9pXExU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54074/devtools/browser/7933cf32-4059-4e9a-a0e5-543a83ff0fc3
+1681438205427	geckodriver	INFO	Listening on 127.0.0.1:54175
+1681438205955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54176" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilej4mRQX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438206529	Marionette	INFO	Marionette enabled
+1681438206599	Marionette	INFO	Listening on port 54181
+WebDriver BiDi listening on ws://127.0.0.1:54176
+1681438206902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilej4mRQX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54176/devtools/browser/81e20cba-5809-4155-947f-764f6f78dcb9
+1681438244705	geckodriver	INFO	Listening on 127.0.0.1:54281
+1681438245244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54282" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6ZQahK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438245835	Marionette	INFO	Marionette enabled
+1681438245917	Marionette	INFO	Listening on port 54287
+WebDriver BiDi listening on ws://127.0.0.1:54282
+1681438246353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6ZQahK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54282/devtools/browser/f9e5bbb0-99c7-4dc3-9075-52140cc94cf2
+1681438655500	geckodriver	INFO	Listening on 127.0.0.1:54579
+1681438655532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54580" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileBSjXuK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438656194	Marionette	INFO	Marionette enabled
+1681438656293	Marionette	INFO	Listening on port 54583
+WebDriver BiDi listening on ws://127.0.0.1:54580
+1681438656765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileBSjXuK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54580/devtools/browser/8e4597fb-7f11-4c6a-9189-4f0b484214db
+1681438784390	geckodriver	INFO	Listening on 127.0.0.1:54702
+1681438784905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54703" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqCNUbW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438785462	Marionette	INFO	Marionette enabled
+1681438785545	Marionette	INFO	Listening on port 54711
+WebDriver BiDi listening on ws://127.0.0.1:54703
+1681438785939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileqCNUbW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54703/devtools/browser/12b96de7-5e11-4390-a7de-c8344b00bf22
+1681438804086	geckodriver	INFO	Listening on 127.0.0.1:54807
+1681438804098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54808" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileOroLxp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438804627	Marionette	INFO	Marionette enabled
+1681438804699	Marionette	INFO	Listening on port 54811
+WebDriver BiDi listening on ws://127.0.0.1:54808
+1681438805046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileOroLxp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54808/devtools/browser/0c640266-8843-4ce6-b4a5-0c7acdff6216
+1681438965203	geckodriver	INFO	Listening on 127.0.0.1:54965
+1681438965721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54966" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileCI0fib"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681438966376	Marionette	INFO	Marionette enabled
+1681438966456	Marionette	INFO	Listening on port 54971
+WebDriver BiDi listening on ws://127.0.0.1:54966
+1681438966890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileCI0fib/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54966/devtools/browser/f5e4b191-2c32-44b2-aadd-6efd5e5f7658
+1681439012452	geckodriver	INFO	Listening on 127.0.0.1:55088
+1681439012988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55089" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilerOZXXq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439013596	Marionette	INFO	Marionette enabled
+1681439013675	Marionette	INFO	Listening on port 55094
+WebDriver BiDi listening on ws://127.0.0.1:55089
+1681439014052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilerOZXXq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55089/devtools/browser/b9647b2a-f5ed-4dd0-914b-790fa9d2d88f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1681439070309	geckodriver	INFO	Listening on 127.0.0.1:55233
+1681439070845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55234" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6G3BMi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439071391	Marionette	INFO	Marionette enabled
+1681439071474	Marionette	INFO	Listening on port 55239
+WebDriver BiDi listening on ws://127.0.0.1:55234
+1681439071847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile6G3BMi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55234/devtools/browser/3cc43bcc-6ddf-4353-b9b9-1b1df4dfb477
+1681439081374	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1681439204654	geckodriver	INFO	Listening on 127.0.0.1:55376
+1681439204677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55377" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile8h8CDT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439205875	Marionette	INFO	Marionette enabled
+1681439206313	Marionette	INFO	Listening on port 55380
+WebDriver BiDi listening on ws://127.0.0.1:55377
+1681439206569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile8h8CDT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55377/devtools/browser/9ddad677-cafb-4213-9dff-bb001ced196e
+1681439330232	geckodriver	INFO	Listening on 127.0.0.1:55543
+1681439330771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55544" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletp6xy6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439331446	Marionette	INFO	Marionette enabled
+1681439331528	Marionette	INFO	Listening on port 55549
+WebDriver BiDi listening on ws://127.0.0.1:55544
+1681439331995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletp6xy6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55544/devtools/browser/cdf1caa3-fe85-48b1-9575-cc21d3a31157
+1681439350277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1681439359907	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1681439523554	geckodriver	INFO	Listening on 127.0.0.1:55755
+1681439523576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55756" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilekB9DUN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439524204	Marionette	INFO	Marionette enabled
+1681439524300	Marionette	INFO	Listening on port 55759
+WebDriver BiDi listening on ws://127.0.0.1:55756
+1681439524667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilekB9DUN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55756/devtools/browser/96c750cb-873b-45d7-be58-3407c1cab6a2
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1681439808368	geckodriver	INFO	Listening on 127.0.0.1:55998
+1681439808405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55999" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileKjEVdS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681439809026	Marionette	INFO	Marionette enabled
+1681439809113	Marionette	INFO	Listening on port 56002
+WebDriver BiDi listening on ws://127.0.0.1:55999
+1681439809503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofileKjEVdS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55999/devtools/browser/1e6c7df3-17b2-475e-a884-fd3a721324e6
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681439861425	Marionette	INFO	Stopped listening on port 63741
+1681439875315	Marionette	INFO	Stopped listening on port 64808
+1681439883264	Marionette	INFO	Stopped listening on port 63061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681439888652	Marionette	INFO	Stopped listening on port 65027
+1681439891151	Marionette	INFO	Stopped listening on port 65121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681439898847	Marionette	INFO	Stopped listening on port 65517
+1681439902372	Marionette	INFO	Stopped listening on port 64551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681439907466	Marionette	INFO	Stopped listening on port 64650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681439918695	Marionette	INFO	Stopped listening on port 62948
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681439922675	Marionette	INFO	Stopped listening on port 63522
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1681440008812	Marionette	INFO	Stopped listening on port 51736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440010598	Marionette	INFO	Stopped listening on port 51944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440011909	Marionette	INFO	Stopped listening on port 52047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440013197	Marionette	INFO	Stopped listening on port 52142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440014962	Marionette	INFO	Stopped listening on port 52231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440016138	Marionette	INFO	Stopped listening on port 52335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440023401	Marionette	INFO	Stopped listening on port 51832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440026417	Marionette	INFO	Stopped listening on port 51526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440029488	Marionette	INFO	Stopped listening on port 51626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440030819	Marionette	INFO	Stopped listening on port 52427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440032254	Marionette	INFO	Stopped listening on port 52524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440035835	Marionette	INFO	Stopped listening on port 51427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440037374	Marionette	INFO	Stopped listening on port 52621
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440038832	Marionette	INFO	Stopped listening on port 52727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440043406	Marionette	INFO	Stopped listening on port 53433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440046076	Marionette	INFO	Stopped listening on port 53579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440049737	Marionette	INFO	Stopped listening on port 51028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440052976	Marionette	INFO	Stopped listening on port 51317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440054242	Marionette	INFO	Stopped listening on port 53306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440056895	Marionette	INFO	Stopped listening on port 53693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440059826	Marionette	INFO	Stopped listening on port 54077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440061681	Marionette	INFO	Stopped listening on port 54181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440063707	Marionette	INFO	Stopped listening on port 54287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440065377	Marionette	INFO	Stopped listening on port 54583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440067180	Marionette	INFO	Stopped listening on port 50852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440069097	Marionette	INFO	Stopped listening on port 54711
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440071564	Marionette	INFO	Stopped listening on port 54811
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440073494	Marionette	INFO	Stopped listening on port 50731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440075333	Marionette	INFO	Stopped listening on port 54971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440081350	Marionette	INFO	Stopped listening on port 50334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440085705	Marionette	INFO	Stopped listening on port 49573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440087101	Marionette	INFO	Stopped listening on port 55239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440088302	Marionette	INFO	Stopped listening on port 55380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440092876	Marionette	INFO	Stopped listening on port 55549
+1681440096049	Marionette	INFO	Stopped listening on port 55759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440097467	Marionette	INFO	Stopped listening on port 55094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440100684	Marionette	INFO	Stopped listening on port 49447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681440111899	geckodriver	INFO	Listening on 127.0.0.1:56181
+1681440112433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56182" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile5rRfYk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681440113086	Marionette	INFO	Marionette enabled
+1681440113156	Marionette	INFO	Listening on port 56187
+WebDriver BiDi listening on ws://127.0.0.1:56182
+1681440113488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile5rRfYk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56182/devtools/browser/ca4f7885-6a6f-4b69-8807-106e82fb9e49
+1681440171227	Marionette	INFO	Stopped listening on port 56187
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1681440578660	geckodriver	INFO	Listening on 127.0.0.1:56484
+1681440579187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56485" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezpOsgO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681440579758	Marionette	INFO	Marionette enabled
+1681440579834	Marionette	INFO	Listening on port 56490
+WebDriver BiDi listening on ws://127.0.0.1:56485
+1681440580216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezpOsgO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56485/devtools/browser/abed3a53-2ede-4490-9511-3c2d4354159a
+1681440760898	geckodriver	INFO	Listening on 127.0.0.1:56605
+1681440761432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56606" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletif6KF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681440762056	Marionette	INFO	Marionette enabled
+1681440762128	Marionette	INFO	Listening on port 56611
+WebDriver BiDi listening on ws://127.0.0.1:56606
+1681440762461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofiletif6KF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56606/devtools/browser/da0951ce-c079-4768-a66f-d2112d8c3c62
+1681513248501	geckodriver	INFO	Listening on 127.0.0.1:57159
+1681513249031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57160" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezNF15v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681513249969	Marionette	INFO	Marionette enabled
+1681513250380	Marionette	INFO	Listening on port 57165
+WebDriver BiDi listening on ws://127.0.0.1:57160
+1681513250593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofilezNF15v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57160/devtools/browser/f06f8d6e-7329-42d6-83b9-489827ec2323
+1681513300022	geckodriver	INFO	Listening on 127.0.0.1:57266
+1681513300548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57267" "-foreground" "-no-remote" "-profile" "/var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3jGqD6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681513301370	Marionette	INFO	Marionette enabled
+1681513301479	Marionette	INFO	Listening on port 57273
+WebDriver BiDi listening on ws://127.0.0.1:57267
+1681513302101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/gsw13r497n7_57l_1x1s7q8m0000gn/T/rust_mozprofile3jGqD6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57267/devtools/browser/ca4c7bc1-a80b-4bad-ab27-495ad887dec1
+1681513389449	Marionette	INFO	Stopped listening on port 56490
+1681513392332	Marionette	INFO	Stopped listening on port 56611
+1681513394633	Marionette	INFO	Stopped listening on port 57165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681513397384	Marionette	INFO	Stopped listening on port 57273

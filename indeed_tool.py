@@ -10,12 +10,15 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 import time
 from random import randrange
 
 apply_nb = 0
 page = 1
 offer_nb = 1
+
+f = open('not_applied.txt', 'a')
 
 indeed_home = "https://fr.indeed.com/jobs?q=nodejs&l=France&vjk=e6c0ee2350ed43f0"
 
@@ -43,11 +46,23 @@ for offer in offers:
         if clickable.get_attribute("href"):
             # check if link element is job link
             if clickable.get_attribute("class") == "jcs-JobTitle css-jspxzf eu4oa1w0":
-                no_offer = False
                 # open link in a new tab
-                # apply
+                driver.execute_script("window.open('"+clickable.get_attribute("href")+"');")
+                child = driver.window_handles[1]
+                print(child)
+                driver.switch_to.window(child)
+                driver.close()
+                # TODO: apply
+                offer_nb += 1
+                page += 1
+                no_offer = False
+                # return to main window
+                driver.switch_to.window(driver.window_handles[0])
     if no_offer is True:
         # find a way to push offer into a file it into file
+        # no need because offer disappear when apply
         print("no offer link")
     # /!\ web site detect scraping bot if each action is seperate by same time /!\
     time.sleep(randrange(5))
+
+# end page | next page

@@ -84,69 +84,72 @@ while watchdog:
         for clickable in clickables:
             if clickable.get_attribute("href"):
                 # check if link element is job link
-                if clickable.get_attribute("class") == "jcs-JobTitle css-jspxzf eu4oa1w0":
-                    # open link in a new tab
-                    driver.execute_script("window.open('"+clickable.get_attribute("href")+"');")
-                    child = driver.window_handles[1]
-                    driver.switch_to.window(child)
-                    time.sleep(3)
-                    # TODO: apply
-                    all_buttons = driver.find_elements(by=By.TAG_NAME, value="a")
-                    all_buttons += driver.find_elements(by=By.TAG_NAME, value="button")
-                    for button in all_buttons:
-                        # click on apply button
-                        try:
-                            if "postuler" in str(button.get_attribute("aria-label")).casefold():
-                                try:
-                                    # driver.execute_script("window.scrollTo(0, 500)")
-                                    driver.execute_script("arguments[0].scrollIntoView(true);", button)
-                                    time.sleep(2)
-                                    if button.tag_name == "a":
-                                        driver.get(button.get_attribute("href"))
-                                    elif button.tag_name == "button":
-                                        button.click()
+                try:
+                    if clickable.get_attribute("class") == "jcs-JobTitle css-jspxzf eu4oa1w0":
+                        # open link in a new tab
+                        driver.execute_script("window.open('"+clickable.get_attribute("href")+"');")
+                        child = driver.window_handles[1]
+                        driver.switch_to.window(child)
+                        time.sleep(3)
+                        # TODO: apply
+                        all_buttons = driver.find_elements(by=By.TAG_NAME, value="a")
+                        all_buttons += driver.find_elements(by=By.TAG_NAME, value="button")
+                        for button in all_buttons:
+                            # click on apply button
+                            try:
+                                if "postuler" in str(button.get_attribute("aria-label")).casefold():
+                                    try:
+                                        # driver.execute_script("window.scrollTo(0, 500)")
+                                        driver.execute_script("arguments[0].scrollIntoView(true);", button)
+                                        time.sleep(2)
+                                        if button.tag_name == "a":
+                                            driver.get(button.get_attribute("href"))
+                                        elif button.tag_name == "button":
+                                            button.click()
+                                            break
+                                    except:
+                                        print("cannot postule button not handle")
+                            except:
+                                print("")
+                        # click on continue button
+                        time.sleep(randrange(5))
+                        has_continue = True
+                        timeout = 0
+                        while has_continue is True and timeout != 5:
+                            print("try: ", timeout, " continue: ", has_continue)
+                            time.sleep(randrange(5))
+                            try:
+                                all_input = driver.find_elements(by=By.TAG_NAME, value="input")
+                                print(all_input)
+                                for input in all_input:
+                                    if input.get_attribute("class") == "css-anc3lu e1jgz0i3" and input.get_attribute("type") == "number":
+                                        input.send_keys("10")
+                                    if input.get_attribute("name") == "jobTitle":
+                                        input.send_keys("software engineer")
+                                    if input.get_attribute("name") == "companyName":
+                                        input.send_keys("gearo")
+                                all_continue_buttons = driver.find_elements(by=By.TAG_NAME, value="button")
+                                all_continue_buttons += driver.find_elements(by=By.TAG_NAME, value="a")
+                                has_continue = False
+                                for continue_button in all_continue_buttons:
+                                    if "continue" in continue_button.get_attribute("class").casefold() or "candidature" in continue_button.get_attribute("class").casefold():
+                                        driver.execute_script("window.scrollTo(0, 500)")
+                                        has_continue = True
+                                        if continue_button.tag_name == "a":
+                                            driver.get(continue_button.get_attribute("href"))
+                                        elif continue_button.tag_name == "button":
+                                            continue_button.click()
                                         break
-                                except:
-                                    print("cannot postule button not handle")
-                        except:
-                            print("")
-                    # click on continue button
-                    time.sleep(randrange(5))
-                    has_continue = True
-                    timeout = 0
-                    while has_continue is True and timeout != 5:
-                        print("try: ", timeout, " continue: ", has_continue)
-                        time.sleep(randrange(5))
-                        try:
-                            all_input = driver.find_elements(by=By.TAG_NAME, value="input")
-                            print(all_input)
-                            for input in all_input:
-                                if input.get_attribute("class") == "css-anc3lu e1jgz0i3" and input.get_attribute("type") == "number":
-                                    input.send_keys("10")
-                                if input.get_attribute("name") == "jobTitle":
-                                    input.send_keys("software engineer")
-                                if input.get_attribute("name") == "companyName":
-                                    input.send_keys("gearo")
-                            all_continue_buttons = driver.find_elements(by=By.TAG_NAME, value="button")
-                            all_continue_buttons += driver.find_elements(by=By.TAG_NAME, value="a")
-                            has_continue = False
-                            for continue_button in all_continue_buttons:
-                                if "continue" in continue_button.get_attribute("class").casefold() or "candidature" in continue_button.get_attribute("class").casefold():
-                                    driver.execute_script("window.scrollTo(0, 500)")
-                                    has_continue = True
-                                    if continue_button.tag_name == "a":
-                                        driver.get(continue_button.get_attribute("href"))
-                                    elif continue_button.tag_name == "button":
-                                        continue_button.click()
-                                    break
-                        except:
-                            print("cannot continue button not handle")
-                            # driver.close()
-                        timeout += 1
-                        time.sleep(randrange(5))
-                    driver.close()
-                    # return to main window
-                    driver.switch_to.window(driver.window_handles[0])
+                            except:
+                                print("cannot continue button not handle")
+                                # driver.close()
+                            timeout += 1
+                            time.sleep(randrange(5))
+                        driver.close()
+                        # return to main window
+                        driver.switch_to.window(driver.window_handles[0])
+                except:
+                    print("site not reachable")
         # /!\ web site detect scraping bot if each action is seperate by same time /!\
         time.sleep(randrange(5))
     # go to next page

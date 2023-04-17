@@ -58,11 +58,11 @@ while watchdog:
         watchdog = False
 
     # delete cookies window
-    all_buttons = driver.find_elements(by=By.TAG_NAME, value="button")
-    for button in all_buttons:
-        if (button.get_attribute("id")) == "onetrust-reject-all-handler":
-            button.click()
-            break
+    # all_buttons = driver.find_elements(by=By.TAG_NAME, value="button")
+    # for button in all_buttons:
+    #     if (button.get_attribute("id")) == "onetrust-reject-all-handler":
+    #         button.click()
+    #         break
 
     # go to connexion page
     # connexion = driver.find_element(by=By.XPATH, value="//a[text()='Connexion']")
@@ -94,24 +94,32 @@ while watchdog:
                     all_buttons = driver.find_elements(by=By.TAG_NAME, value="a")
                     all_buttons += driver.find_elements(by=By.TAG_NAME, value="button")
                     for button in all_buttons:
-                        # click on postuler button
+                        # click on apply button
                         try:
-                            if "postuler" in str(button.get_attribute("aria-label")).casefold() or "Postuler" in str(button.get_attribute("aria-label")).casefold():
-                                driver.execute_script("window.scrollTo(0, 500)")
-                                if button.get_attribute("href"):
-                                    driver.get(button.get_attribute("href"))
-                                elif button.tag_name == "button":
-                                    button.click()
+                            if "postuler" in str(button.get_attribute("aria-label")).casefold():
+                                try:
+                                    # driver.execute_script("window.scrollTo(0, 500)")
+                                    driver.execute_script("arguments[0].scrollIntoView(true);", button)
+                                    time.sleep(2)
+                                    if button.tag_name == "a":
+                                        driver.get(button.get_attribute("href"))
+                                    elif button.tag_name == "button":
+                                        button.click()
+                                        break
+                                except:
+                                    print("cannot postule button not handle")
                         except:
-                            print("not handle")
-
+                            print("")
                     # click on continue button
                     time.sleep(randrange(5))
                     has_continue = True
                     timeout = 0
-                    while has_continue and timeout != 7:
+                    while has_continue is True and timeout != 5:
+                        print("try: ", timeout, " continue: ", has_continue)
+                        time.sleep(randrange(5))
                         try:
                             all_input = driver.find_elements(by=By.TAG_NAME, value="input")
+                            print(all_input)
                             for input in all_input:
                                 if input.get_attribute("class") == "css-anc3lu e1jgz0i3" and input.get_attribute("type") == "number":
                                     input.send_keys("10")
@@ -120,19 +128,22 @@ while watchdog:
                                 if input.get_attribute("name") == "companyName":
                                     input.send_keys("gearo")
                             all_continue_buttons = driver.find_elements(by=By.TAG_NAME, value="button")
+                            all_continue_buttons += driver.find_elements(by=By.TAG_NAME, value="a")
+                            has_continue = False
                             for continue_button in all_continue_buttons:
                                 if "continue" in continue_button.get_attribute("class").casefold() or "candidature" in continue_button.get_attribute("class").casefold():
                                     driver.execute_script("window.scrollTo(0, 500)")
-                                    continue_button.click()
+                                    has_continue = True
+                                    if continue_button.tag_name == "a":
+                                        driver.get(continue_button.get_attribute("href"))
+                                    elif continue_button.tag_name == "button":
+                                        continue_button.click()
                                     break
-                                else:
-                                    has_continue = False
                         except:
-                            print("not handle")
+                            print("cannot continue button not handle")
                             # driver.close()
                         timeout += 1
                         time.sleep(randrange(5))
-                        timeout += 1
                     driver.close()
                     # return to main window
                     driver.switch_to.window(driver.window_handles[0])
